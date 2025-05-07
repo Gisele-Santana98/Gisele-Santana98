@@ -13,12 +13,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" style="margin-right: 10px;" />
 </p>
 
-### 📊 Estatísticas
+//### 📊 Estatísticas
 
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gisele-Santana98&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gisele-Santana98&layout=compact&langs_count=7&theme=dark"/>
-</div>
+//<div align="left">
+ // <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gisele-Santana98&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ // <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gisele-Santana98&layout=compact&langs_count=7&theme=dark"/>
+//</div>
 
 ---
 
