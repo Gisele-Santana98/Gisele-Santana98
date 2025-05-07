@@ -1,9 +1,6 @@
-# Gisele-Santana98
-### Olá, eu sou a Gisele 👋
-
-💻 Estudante de Desenvolvimento de Sistemas  
-📚 Apaixonada por aprender e compartilhar conhecimento  
-🌐 Desenvolvendo sites responsivos com HTML, CSS e JavaScript  
+# Olá, eu sou a Gisele, estudante de Desenvolvimento de Sistemas!
+  
+📚 Sou apaixonada por aprender e compartilhar conhecimento atualmente desenvolvo sites responsivos com HTML, CSS e JavaScript  
 
 ---
 
