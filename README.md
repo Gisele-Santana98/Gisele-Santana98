@@ -17,6 +17,18 @@
 
 ---
 
+### 🚀 Um GIF de boas-vindas:
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
+
+---
+
+### 👣 Visitantes
+
+![Visitantes](https://komarev.com/ghpvc/?username=Gisele-Santana98&style=flat-square)
+
+---
+
 #### 📫 Contato:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gisele-sousa98/)
 
